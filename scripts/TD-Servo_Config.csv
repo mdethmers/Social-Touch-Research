@@ -1,5 +1,0 @@
-servo,name,min,mid,max
-0,servo_Left_Right,500,1500,2500
-1,servo_Forward_Backward,500,1500,2500
-2,servo_Up_Down,500,1500,2500
-3,Breath_In_Out,-255,0,255

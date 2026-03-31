@@ -1,0 +1,601 @@
+{
+  "metadata": {
+    "gesture": "tap",
+    "personality": "excited",
+    "duration": 6.72226619720459,
+    "data_points": 63,
+    "timestamp": "20250925_122134",
+    "servo_config": {
+      "height": {
+        "index": 2,
+        "pwm_min": 500,
+        "pwm_max": 2500,
+        "pwm_center": 1500,
+        "inverse": false
+      },
+      "pitch": {
+        "index": 1,
+        "pwm_min": 500,
+        "pwm_max": 2500,
+        "pwm_center": 1350,
+        "inverse": false
+      },
+      "roll": {
+        "index": 0,
+        "pwm_min": 800,
+        "pwm_max": 2500,
+        "pwm_center": 1520,
+        "inverse": true
+      }
+    }
+  },
+  "data": [
+    {
+      "timestamp": 0.05609536170959473,
+      "height_cm": -0.9196077577349033,
+      "pitch_deg": 9.090000000000002,
+      "roll_deg": -4.050000000000001,
+      "height_pwm": 1408,
+      "pitch_pwm": 1451,
+      "roll_pwm": 1558
+    },
+    {
+      "timestamp": 0.1618051528930664,
+      "height_cm": -0.9194484903641236,
+      "pitch_deg": 9.090000000000002,
+      "roll_deg": -4.050000000000001,
+      "height_pwm": 1408,
+      "pitch_pwm": 1451,
+      "roll_pwm": 1558
+    },
+    {
+      "timestamp": 0.2646012306213379,
+      "height_cm": -0.919810844014425,
+      "pitch_deg": 9.0,
+      "roll_deg": -4.050000000000001,
+      "height_pwm": 1408,
+      "pitch_pwm": 1450,
+      "roll_pwm": 1558
+    },
+    {
+      "timestamp": 0.37621355056762695,
+      "height_cm": -0.9187704710589266,
+      "pitch_deg": 9.0,
+      "roll_deg": -4.050000000000001,
+      "height_pwm": 1408,
+      "pitch_pwm": 1450,
+      "roll_pwm": 1558
+    },
+    {
+      "timestamp": 0.4915287494659424,
+      "height_cm": -0.9243120808347527,
+      "pitch_deg": 9.0,
+      "roll_deg": -3.9600000000000004,
+      "height_pwm": 1407,
+      "pitch_pwm": 1450,
+      "roll_pwm": 1557
+    },
+    {
+      "timestamp": 0.600203275680542,
+      "height_cm": -0.9300062998411006,
+      "pitch_deg": 8.64,
+      "roll_deg": -3.9600000000000004,
+      "height_pwm": 1406,
+      "pitch_pwm": 1446,
+      "roll_pwm": 1557
+    },
+    {
+      "timestamp": 0.7132968902587891,
+      "height_cm": -0.9525025555804603,
+      "pitch_deg": 7.110000000000001,
+      "roll_deg": -4.2299999999999995,
+      "height_pwm": 1404,
+      "pitch_pwm": 1429,
+      "roll_pwm": 1559
+    },
+    {
+      "timestamp": 0.8453719615936279,
+      "height_cm": -0.9333274699168335,
+      "pitch_deg": 4.860000000000001,
+      "roll_deg": -4.59,
+      "height_pwm": 1406,
+      "pitch_pwm": 1404,
+      "roll_pwm": 1563
+    },
+    {
+      "timestamp": 0.9513533115386963,
+      "height_cm": -0.3581109770291042,
+      "pitch_deg": 0.36,
+      "roll_deg": -10.709999999999999,
+      "height_pwm": 1464,
+      "pitch_pwm": 1354,
+      "roll_pwm": 1621
+    },
+    {
+      "timestamp": 1.061316967010498,
+      "height_cm": 1.2437892921301361,
+      "pitch_deg": -9.450000000000001,
+      "roll_deg": -22.41,
+      "height_pwm": 1624,
+      "pitch_pwm": 1245,
+      "roll_pwm": 1731
+    },
+    {
+      "timestamp": 1.167956829071045,
+      "height_cm": 3.278254590545646,
+      "pitch_deg": -15.660000000000004,
+      "roll_deg": -27.9,
+      "height_pwm": 1827,
+      "pitch_pwm": 1176,
+      "roll_pwm": 1783
+    },
+    {
+      "timestamp": 1.2849466800689697,
+      "height_cm": 5.792292614129117,
+      "pitch_deg": -21.6,
+      "roll_deg": -36.27,
+      "height_pwm": 2079,
+      "pitch_pwm": 1110,
+      "roll_pwm": 1862
+    },
+    {
+      "timestamp": 1.3863294124603271,
+      "height_cm": 7.7867681251970575,
+      "pitch_deg": -24.3,
+      "roll_deg": -39.69,
+      "height_pwm": 2278,
+      "pitch_pwm": 1080,
+      "roll_pwm": 1894
+    },
+    {
+      "timestamp": 1.4891908168792725,
+      "height_cm": 9.421067095958062,
+      "pitch_deg": -27.630000000000003,
+      "roll_deg": -41.67000000000001,
+      "height_pwm": 2442,
+      "pitch_pwm": 1043,
+      "roll_pwm": 1913
+    },
+    {
+      "timestamp": 1.5996079444885254,
+      "height_cm": 10.0,
+      "pitch_deg": -30.060000000000002,
+      "roll_deg": -44.46,
+      "height_pwm": 2500,
+      "pitch_pwm": 1016,
+      "roll_pwm": 1939
+    },
+    {
+      "timestamp": 1.700242042541504,
+      "height_cm": 10.0,
+      "pitch_deg": -31.5,
+      "roll_deg": -47.160000000000004,
+      "height_pwm": 2500,
+      "pitch_pwm": 1000,
+      "roll_pwm": 1965
+    },
+    {
+      "timestamp": 1.811941385269165,
+      "height_cm": 10.0,
+      "pitch_deg": -30.96,
+      "roll_deg": -46.35,
+      "height_pwm": 2500,
+      "pitch_pwm": 1006,
+      "roll_pwm": 1957
+    },
+    {
+      "timestamp": 1.918043613433838,
+      "height_cm": 10.0,
+      "pitch_deg": -30.69,
+      "roll_deg": -45.72,
+      "height_pwm": 2500,
+      "pitch_pwm": 1009,
+      "roll_pwm": 1951
+    },
+    {
+      "timestamp": 2.031157970428467,
+      "height_cm": 10.0,
+      "pitch_deg": -30.330000000000002,
+      "roll_deg": -45.54,
+      "height_pwm": 2500,
+      "pitch_pwm": 1013,
+      "roll_pwm": 1950
+    },
+    {
+      "timestamp": 2.13916015625,
+      "height_cm": 10.0,
+      "pitch_deg": -30.060000000000002,
+      "roll_deg": -45.09,
+      "height_pwm": 2500,
+      "pitch_pwm": 1016,
+      "roll_pwm": 1945
+    },
+    {
+      "timestamp": 2.2406063079833984,
+      "height_cm": 10.0,
+      "pitch_deg": -29.610000000000007,
+      "roll_deg": -44.730000000000004,
+      "height_pwm": 2500,
+      "pitch_pwm": 1021,
+      "roll_pwm": 1942
+    },
+    {
+      "timestamp": 2.3471827507019043,
+      "height_cm": 10.0,
+      "pitch_deg": -28.169999999999998,
+      "roll_deg": -44.730000000000004,
+      "height_pwm": 2500,
+      "pitch_pwm": 1037,
+      "roll_pwm": 1942
+    },
+    {
+      "timestamp": 2.4504008293151855,
+      "height_cm": 10.0,
+      "pitch_deg": -23.67,
+      "roll_deg": -43.11,
+      "height_pwm": 2500,
+      "pitch_pwm": 1087,
+      "roll_pwm": 1927
+    },
+    {
+      "timestamp": 2.561189889907837,
+      "height_cm": 9.551251323173155,
+      "pitch_deg": -17.28,
+      "roll_deg": -37.71,
+      "height_pwm": 2455,
+      "pitch_pwm": 1158,
+      "roll_pwm": 1876
+    },
+    {
+      "timestamp": 2.6612789630889893,
+      "height_cm": 7.175860701822585,
+      "pitch_deg": -12.06,
+      "roll_deg": -31.230000000000008,
+      "height_pwm": 2217,
+      "pitch_pwm": 1216,
+      "roll_pwm": 1814
+    },
+    {
+      "timestamp": 2.7945401668548584,
+      "height_cm": 2.3538737590120693,
+      "pitch_deg": -4.68,
+      "roll_deg": -15.660000000000004,
+      "height_pwm": 1735,
+      "pitch_pwm": 1298,
+      "roll_pwm": 1667
+    },
+    {
+      "timestamp": 2.899935245513916,
+      "height_cm": 1.4403714048903349,
+      "pitch_deg": 4.2299999999999995,
+      "roll_deg": -5.130000000000001,
+      "height_pwm": 1644,
+      "pitch_pwm": 1397,
+      "roll_pwm": 1568
+    },
+    {
+      "timestamp": 3.0092198848724365,
+      "height_cm": 5.1245858180126955,
+      "pitch_deg": 13.95,
+      "roll_deg": -1.44,
+      "height_pwm": 2012,
+      "pitch_pwm": 1505,
+      "roll_pwm": 1533
+    },
+    {
+      "timestamp": 3.1112728118896484,
+      "height_cm": 7.9886679106323175,
+      "pitch_deg": 18.900000000000002,
+      "roll_deg": 1.7100000000000002,
+      "height_pwm": 2298,
+      "pitch_pwm": 1560,
+      "roll_pwm": 1503
+    },
+    {
+      "timestamp": 3.2159128189086914,
+      "height_cm": 5.819371966643042,
+      "pitch_deg": 14.31,
+      "roll_deg": -1.35,
+      "height_pwm": 2081,
+      "pitch_pwm": 1509,
+      "roll_pwm": 1532
+    },
+    {
+      "timestamp": 3.323791980743408,
+      "height_cm": 1.7942577505407082,
+      "pitch_deg": 8.280000000000001,
+      "roll_deg": -0.09,
+      "height_pwm": 1679,
+      "pitch_pwm": 1442,
+      "roll_pwm": 1520
+    },
+    {
+      "timestamp": 3.4327759742736816,
+      "height_cm": 2.772360740153872,
+      "pitch_deg": 11.07,
+      "roll_deg": 1.08,
+      "height_pwm": 1777,
+      "pitch_pwm": 1473,
+      "roll_pwm": 1509
+    },
+    {
+      "timestamp": 3.5332131385803223,
+      "height_cm": 5.722695503362189,
+      "pitch_deg": 14.94,
+      "roll_deg": -1.17,
+      "height_pwm": 2072,
+      "pitch_pwm": 1516,
+      "roll_pwm": 1531
+    },
+    {
+      "timestamp": 3.6406102180480957,
+      "height_cm": 5.723435610521325,
+      "pitch_deg": 13.590000000000002,
+      "roll_deg": -4.860000000000001,
+      "height_pwm": 2072,
+      "pitch_pwm": 1501,
+      "roll_pwm": 1565
+    },
+    {
+      "timestamp": 3.741851568222046,
+      "height_cm": 2.7860922353172826,
+      "pitch_deg": 8.459999999999999,
+      "roll_deg": -6.840000000000001,
+      "height_pwm": 1778,
+      "pitch_pwm": 1444,
+      "roll_pwm": 1584
+    },
+    {
+      "timestamp": 3.8441290855407715,
+      "height_cm": 0.8941342115371115,
+      "pitch_deg": 6.569999999999999,
+      "roll_deg": -6.210000000000001,
+      "height_pwm": 1589,
+      "pitch_pwm": 1423,
+      "roll_pwm": 1578
+    },
+    {
+      "timestamp": 3.944676399230957,
+      "height_cm": 1.3622780917760469,
+      "pitch_deg": 7.38,
+      "roll_deg": -6.840000000000001,
+      "height_pwm": 1636,
+      "pitch_pwm": 1432,
+      "roll_pwm": 1584
+    },
+    {
+      "timestamp": 4.053572654724121,
+      "height_cm": 1.7489511741777222,
+      "pitch_deg": 6.4799999999999995,
+      "roll_deg": -12.959999999999999,
+      "height_pwm": 1674,
+      "pitch_pwm": 1422,
+      "roll_pwm": 1642
+    },
+    {
+      "timestamp": 4.167395114898682,
+      "height_cm": 1.4776651407884733,
+      "pitch_deg": 6.03,
+      "roll_deg": -15.299999999999999,
+      "height_pwm": 1647,
+      "pitch_pwm": 1417,
+      "roll_pwm": 1664
+    },
+    {
+      "timestamp": 4.273838758468628,
+      "height_cm": 1.1643993876702146,
+      "pitch_deg": 6.300000000000001,
+      "roll_deg": -14.94,
+      "height_pwm": 1616,
+      "pitch_pwm": 1420,
+      "roll_pwm": 1661
+    },
+    {
+      "timestamp": 4.388906002044678,
+      "height_cm": 0.8807867733515723,
+      "pitch_deg": 6.300000000000001,
+      "roll_deg": -15.48,
+      "height_pwm": 1588,
+      "pitch_pwm": 1420,
+      "roll_pwm": 1666
+    },
+    {
+      "timestamp": 4.495048522949219,
+      "height_cm": 0.8024730636291817,
+      "pitch_deg": 6.300000000000001,
+      "roll_deg": -16.650000000000002,
+      "height_pwm": 1580,
+      "pitch_pwm": 1420,
+      "roll_pwm": 1677
+    },
+    {
+      "timestamp": 4.595267057418823,
+      "height_cm": 0.8161203657572259,
+      "pitch_deg": 6.300000000000001,
+      "roll_deg": -16.83,
+      "height_pwm": 1581,
+      "pitch_pwm": 1420,
+      "roll_pwm": 1678
+    },
+    {
+      "timestamp": 4.697427034378052,
+      "height_cm": 0.8534294138012439,
+      "pitch_deg": 5.76,
+      "roll_deg": -17.189999999999998,
+      "height_pwm": 1585,
+      "pitch_pwm": 1414,
+      "roll_pwm": 1682
+    },
+    {
+      "timestamp": 4.8066253662109375,
+      "height_cm": 0.8708767369994206,
+      "pitch_deg": 5.130000000000001,
+      "roll_deg": -17.55,
+      "height_pwm": 1587,
+      "pitch_pwm": 1407,
+      "roll_pwm": 1685
+    },
+    {
+      "timestamp": 4.913249969482422,
+      "height_cm": 0.869186483104757,
+      "pitch_deg": 4.68,
+      "roll_deg": -17.55,
+      "height_pwm": 1586,
+      "pitch_pwm": 1402,
+      "roll_pwm": 1685
+    },
+    {
+      "timestamp": 5.0167717933654785,
+      "height_cm": 0.8785833013687057,
+      "pitch_deg": 3.7800000000000002,
+      "roll_deg": -18.09,
+      "height_pwm": 1587,
+      "pitch_pwm": 1392,
+      "roll_pwm": 1690
+    },
+    {
+      "timestamp": 5.130589962005615,
+      "height_cm": 0.8838282550906837,
+      "pitch_deg": 2.7,
+      "roll_deg": -18.54,
+      "height_pwm": 1588,
+      "pitch_pwm": 1380,
+      "roll_pwm": 1695
+    },
+    {
+      "timestamp": 5.237039566040039,
+      "height_cm": 0.887809884968865,
+      "pitch_deg": 1.8900000000000001,
+      "roll_deg": -18.630000000000003,
+      "height_pwm": 1588,
+      "pitch_pwm": 1371,
+      "roll_pwm": 1695
+    },
+    {
+      "timestamp": 5.339211940765381,
+      "height_cm": 0.8884247905062074,
+      "pitch_deg": 1.44,
+      "roll_deg": -18.54,
+      "height_pwm": 1588,
+      "pitch_pwm": 1366,
+      "roll_pwm": 1695
+    },
+    {
+      "timestamp": 5.444707632064819,
+      "height_cm": 0.8907885800511729,
+      "pitch_deg": 1.17,
+      "roll_deg": -18.270000000000003,
+      "height_pwm": 1589,
+      "pitch_pwm": 1363,
+      "roll_pwm": 1692
+    },
+    {
+      "timestamp": 5.550975322723389,
+      "height_cm": 0.8921127290842773,
+      "pitch_deg": 1.08,
+      "roll_deg": -18.270000000000003,
+      "height_pwm": 1589,
+      "pitch_pwm": 1362,
+      "roll_pwm": 1692
+    },
+    {
+      "timestamp": 5.65899395942688,
+      "height_cm": 0.8903801348404168,
+      "pitch_deg": 1.08,
+      "roll_deg": -18.180000000000003,
+      "height_pwm": 1589,
+      "pitch_pwm": 1362,
+      "roll_pwm": 1691
+    },
+    {
+      "timestamp": 5.762362241744995,
+      "height_cm": 0.8904160410762487,
+      "pitch_deg": 1.17,
+      "roll_deg": -18.09,
+      "height_pwm": 1589,
+      "pitch_pwm": 1363,
+      "roll_pwm": 1690
+    },
+    {
+      "timestamp": 5.867541313171387,
+      "height_cm": 0.8938186651338744,
+      "pitch_deg": 1.17,
+      "roll_deg": -18.09,
+      "height_pwm": 1589,
+      "pitch_pwm": 1363,
+      "roll_pwm": 1690
+    },
+    {
+      "timestamp": 5.9728052616119385,
+      "height_cm": 0.8954019567177136,
+      "pitch_deg": 1.26,
+      "roll_deg": -18.09,
+      "height_pwm": 1589,
+      "pitch_pwm": 1364,
+      "roll_pwm": 1690
+    },
+    {
+      "timestamp": 6.085813283920288,
+      "height_cm": 0.8960354036965904,
+      "pitch_deg": 1.26,
+      "roll_deg": -18.09,
+      "height_pwm": 1589,
+      "pitch_pwm": 1364,
+      "roll_pwm": 1690
+    },
+    {
+      "timestamp": 6.1949687004089355,
+      "height_cm": 0.899718350814096,
+      "pitch_deg": 1.35,
+      "roll_deg": -18.09,
+      "height_pwm": 1589,
+      "pitch_pwm": 1365,
+      "roll_pwm": 1690
+    },
+    {
+      "timestamp": 6.3004186153411865,
+      "height_cm": 0.9006245410759555,
+      "pitch_deg": 1.44,
+      "roll_deg": -18.09,
+      "height_pwm": 1590,
+      "pitch_pwm": 1366,
+      "roll_pwm": 1690
+    },
+    {
+      "timestamp": 6.4096832275390625,
+      "height_cm": 0.9061469889879711,
+      "pitch_deg": 1.44,
+      "roll_deg": -18.180000000000003,
+      "height_pwm": 1590,
+      "pitch_pwm": 1366,
+      "roll_pwm": 1691
+    },
+    {
+      "timestamp": 6.510504484176636,
+      "height_cm": 0.9099886576041513,
+      "pitch_deg": 1.44,
+      "roll_deg": -18.180000000000003,
+      "height_pwm": 1590,
+      "pitch_pwm": 1366,
+      "roll_pwm": 1691
+    },
+    {
+      "timestamp": 6.615950107574463,
+      "height_cm": 0.9303175007763698,
+      "pitch_deg": 1.53,
+      "roll_deg": -18.270000000000003,
+      "height_pwm": 1593,
+      "pitch_pwm": 1367,
+      "roll_pwm": 1692
+    },
+    {
+      "timestamp": 6.72226619720459,
+      "height_cm": 0.9369085749925119,
+      "pitch_deg": 1.53,
+      "roll_deg": -18.270000000000003,
+      "height_pwm": 1593,
+      "pitch_pwm": 1367,
+      "roll_pwm": 1692
+    }
+  ]
+}
